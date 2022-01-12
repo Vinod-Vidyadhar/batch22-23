@@ -4,3 +4,8 @@ https://ap-south-1.console.aws.amazon.com/cloudwatch/home?region=ap-south-1#metr
 
 
 https://ap-south-1.console.aws.amazon.com/cloudwatch/home?region=ap-south-1#alarmsV2:create/$7B$22metrics$22$3A$5B$5B$22AWS$2FBilling$22$2C$22EstimatedCharges$22$2C$22Currency$22$2C$22USD$22$2C$7B$22stat$22$3A$22Maximum$22$2C$22period$22$3A21600$7D$5D$5D$2C$22period$22$3A300$2C$22stat$22$3A$22Average$22$2C$22legend$22$3A$7B$22position$22$3A$22bottom$22$7D$2C$22yAxis$22$3A$7B$22left$22$3A$7B$22showUnits$22$3Afalse$2C$22label$22$3A$22USD$22$7D$7D$2C$22region$22$3A$22ap-south-1$22$2C$22liveData$22$3Afalse$2C$22start$22$3A$22-P6M$22$2C$22end$22$3A$22P0D$22$2C$22title$22$3A$22$22$2C$22view$22$3A$22timeSeries$22$2C$22stacked$22$3Afalse$7D?~(Page~'MetricSelection~AlarmType~'MetricAlarm~AlarmData~(Namespace~'AWS*2fBilling~MetricName~'EstimatedCharges~Dimensions~(~(Name~'Currency~Value~'inr))~Period~21600~Statistic~'Maximum~AlarmName~'~AlarmDescription~'~ActionsEnabled~true~ComparisonOperator~'GreaterThanThreshold~Threshold~10~DatapointsToAlarm~1~EvaluationPeriods~1~TreatMissingData~'missing~AlarmActions~(~)~InsufficientDataActions~(~)~OKActions~(~)))
+
+git config commands 
+
+git config --global user.name "Admin"
+git config --global user.email <youremailID>@gmail.com
