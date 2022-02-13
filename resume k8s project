@@ -1,0 +1,20 @@
+Project 2:  . E-Commerce online shopping Application  - Jio Mart
+             Service Line/Areas   :  K8s Micro service Application creation and deployment
+             Role                         : DevOps Engineer
+            Client                      :  Jio Mart
+
+Project Description
+JioMart is an Indian online grocery delivery service, started as a joint venture between Reliance Retail and Jio Platforms. JioMart delivers grocery and daily essentials from nearby stores
+  
+Roles and Responsibilities:
+ 
+Involved into the planning to taking the decision to choose a CI and CD for our application.
+Provide the solution to create my application with microservices architecture .
+Responsible to create a Git Repository setup for our Development team.
+Responsible to create a Kubernetes Cluster and Manifests files like Deployment and Services  
+Configured the flow of CI and CD via Jenkins and setup the environment with the Dockerfile.
+Configured the Docker based  application and Deployment users as per business Requirements
+Responsible to configure Jenkins Job for the Requirement.
+Invented better ways to use Jenkins application for CI and CD.
+Documented the full process of Automation and provided the KT to the QA team to use Jenkins Job. 
+Participated in on ​call rotation to handle production outage incidents.
